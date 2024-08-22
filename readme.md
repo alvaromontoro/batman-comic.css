@@ -197,7 +197,7 @@ But if you want a set of best practices; here are some:
 
 ```
 <article class="batman-comic" role="img" aria-labelledby="batman-alt-0">
-  <span id="batman-alt-0" class="visually-hidden">
+  <span id="batman-alt-0" class="comic-description">
     Comic strip with three panels showing Batman introducing himself, then someone off-panel asks if
     anyone has seen Bruce Wayne and a blushed Batman says that he has to go... for no reason in particular
   </span>
