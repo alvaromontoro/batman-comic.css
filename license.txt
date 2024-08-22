@@ -1,0 +1,9 @@
+`batman-comic.css` is copyright 2024 by Alvaro Montoro.
+
+The library is provided as-is. The author makes no representations or warranties of any kind, expressed or implied, as to the operation 
+of the library, and is not responsible for any damage/side effect that the use of this library may cause.
+
+Feel free to use the `batman-comic.css` library to create non-commercial comics. If you create a comic strip with this, please share 
+it with me, you can find me on [Twitter](https://twitter.com/alvaro_montoro) or [Mastodon](https://front-end.social/@alvaromontoro).
+
+Attribution is required (a comment in source code is fine).
